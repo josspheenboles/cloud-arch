@@ -1,0 +1,20 @@
+Task1:
+Write a Python script that does the following:
+	Assign the name of your favorite cloud provider to a variable.
+	Print a welcome message including the provider name.
+	Create a list of three cloud services (e.g., S3, EC2, Lambda).
+	Print the list and its length.
+	Create a dictionary with keys name, region, and services (use the list from the 	previous step as the value for services).
+	Print the dictionary in a readable format.
+Task2:
+You are building a simple region checker.
+Write a program that prompts the user to input a region (e.g., us-west-2).
+If the region is us-east-1, print “You are in the default region.”
+Otherwise, print “Region selected: <input>.”
+
+
+Bounce:
+Create a script that does the following:
+Prompts the user to enter a list of services separated by commas (e.g., S3, EC2, Lambda).
+Iterates over the list and prints each service with its estimated hourly rate (use a predefined dictionary).
+Adds a feature to calculate the total cost if all services are used for a specified number of hours.
