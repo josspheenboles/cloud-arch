@@ -16,3 +16,7 @@ Prompts the user to input a number.
 Returns the square of the number.
 Uses try-except to handle non-numeric input and prompts the user to try again until valid input is provided.
 
+task4:
+write your info in file
+read  your info from file
+update your age in file
